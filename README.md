@@ -11,6 +11,7 @@ pip install ipinfo
 
 pip install python-whois
 
-pip install python-nmap
+pip install python-nmap OR
           
-run python3 requirements.py
+
+   python3 requirements.py
