@@ -13,4 +13,4 @@ pip install python-whois
 
 pip install python-nmap
           
-python3 requirements.py
+run python3 requirements.py
