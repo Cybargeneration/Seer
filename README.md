@@ -14,5 +14,4 @@ pip install python-whois
 pip install python-nmap
          
          OR 
-
 python3 requirements.py
