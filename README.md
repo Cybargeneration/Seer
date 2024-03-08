@@ -7,8 +7,8 @@ Performs a Whois scanto pull info in the ip!
 To successfully use this script you have to instule three modules!
 
 
-pip install ipinfo,
+pip install ipinfo
 
-pip install python-whois,
+pip install python-whois
 
 pip install python-nmap
