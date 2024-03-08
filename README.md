@@ -15,3 +15,6 @@ pip install python-nmap OR
           
 
                    python3 requirements.py
+
+
+                    python3 seer.py
