@@ -1,20 +1,11 @@
-This script is written in python!!
-this script helps track Ip addresses using python Geoip library
-scans Ip address with nmap for open ports
-Performs a Whois scanto pull info in the ip!
+# Seer
+- This script is written in python!!
+- This script helps track Ip addresses using python Geoip library
+- scans Ip address with nmap for open ports
+- Performs a Whois scanto pull info in the ip!
 
+### To successfully use this script you have to instule three modules!
 
-To successfully use this script you have to instule three modules!
-
-
-pip install ipinfo
-
-pip install python-whois
-
-pip install python-nmap OR
-          
-
-                   python3 requirements.py
-
-
-           python3 seer.py
+- You can achieve this by executing
+	- `pip install -r requirements.txt`
+	- `python3 seer.py`

@@ -51,7 +51,7 @@ for key, value in details.all.items():
 # run a very fast nmap scan to detect open ports
 print_action("Scanning for open ports")
 scanner = nmap.PortScanner()
-scanner.scan(ip_address, arguments='-T4 -F')
+scanner.scan(ip_address, arguments='-sS -T4 -F')
 
 # print the results of the nmap scan
 for host in scanner.all_hosts():
@@ -71,3 +71,4 @@ try:
     print(w)
 except Exception as e:
     print("\033[91mError occurred while performing WHOIS lookup:\033[0m", e)
+
