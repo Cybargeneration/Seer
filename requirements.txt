@@ -1,0 +1,3 @@
+ipinfo
+python-whois
+python-nmap
