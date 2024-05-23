@@ -14,7 +14,7 @@ ascii_banner = """
 \033[0m****************************************************************
 * Created by \033[94mWinston Ighodaro\033[0m                                  *
 * \033[94mhttps://www.cybergeneration.tech\033[0m                             *
-* \033[94mhttps://www.tiktok.com/cybergen2\033[0m                             *
+* \033[94mhttps://x.com/officialwhyte22\033[0m                             *
 ****************************************************************
                                       
 """
